@@ -1,0 +1,1 @@
+[{"customer": {"name": "John Doe", "email": "john@example.com", "phone": "123-456-7890"}, "hotel": {"name": "Hotel A", "location": "City A", "rooms": ["101", "102"]}, "room_number": "101"}]

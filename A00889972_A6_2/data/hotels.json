@@ -1,0 +1,1 @@
+[{"name": "Hotel A", "location": "City A", "rooms": [101, 102, 103]}, {"name": "Hotel B", "location": "City B", "rooms": [201, 202, 203]}, {"name": "Hotel XYZ", "location": "City A", "rooms": ["101", "102", "103"]}]

@@ -6,6 +6,9 @@ based on a price catalogue and sales records.
 
 Usage:
 python compute_sales.py Catalogue.json sales.json
+
+Author: Najk
+Date: 01-02-2024.
 """
 
 import json
