@@ -1,4 +1,9 @@
-"""Provides methods to insert sample data into the system."""
+"""
+
+Methods to insert sample data into the system.
+
+Author: Najk
+Date: 16-02-2024."""
 
 from src.hotel import Hotel
 from src.customer import Customer

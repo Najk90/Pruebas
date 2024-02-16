@@ -1,4 +1,9 @@
-"""Unit tests for the complete system."""
+"""
+Unit tests for the complete system.
+
+Author: Najk
+Date: 16-02-2024.
+"""
 
 import unittest
 from test.test_hotel import TestHotelMethods

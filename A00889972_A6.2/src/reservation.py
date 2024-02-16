@@ -1,6 +1,9 @@
 """
 Reservation Module
 This module contains the Reservation class representing a hotel reservation.
+
+Author: Najk
+Date: 16-02-2024.
 """
 
 from src.customer import Customer

@@ -1,4 +1,9 @@
-"""Unit tests for the Reservation class."""
+"""
+Unit tests for the Reservation class.
+
+Author: Najk
+Date: 16-02-2024.
+"""
 
 import unittest
 from src.customer import Customer

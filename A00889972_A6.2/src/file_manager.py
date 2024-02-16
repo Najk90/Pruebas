@@ -1,6 +1,9 @@
 """
 FileManager Module
 This module provides functionality for saving and loading data to/from files.
+
+Author: Najk
+Date: 16-02-2024.
 """
 
 import json

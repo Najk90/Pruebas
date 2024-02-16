@@ -1,6 +1,9 @@
 """
 Hotel Module
 This module contains the Hotel class representing a hotel entity.
+
+Author: Najk
+Date: 16-02-2024.
 """
 
 

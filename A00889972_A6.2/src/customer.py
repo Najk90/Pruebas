@@ -1,6 +1,9 @@
 """
 Customer Module
 This module contains the Customer class representing a customer entity.
+
+Author: Najk
+Date: 16-02-2024.
 """
 
 

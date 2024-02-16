@@ -1,4 +1,9 @@
-"""Unit tests for actions performed by the FileManager class."""
+"""
+Unit tests for actions performed by the FileManager class.
+
+Author: Najk
+Date: 16-02-2024.
+"""
 
 import unittest
 from src.file_manager import FileManager

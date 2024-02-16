@@ -1,4 +1,9 @@
-"""Unit tests for the Hotel class."""
+"""
+Unit tests for the Hotel class.
+
+Author: Najk
+Date: 16-02-2024.
+"""
 
 import unittest
 from src.file_manager import FileManager
